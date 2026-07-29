@@ -46,8 +46,10 @@
 
 ### 📊 GitHub Activity & Stats
 
-<!-- Alternative Stats Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanjayyy&theme=dark&hide_border=true" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanjayyy&theme=purple&show_icons=true&hide_border=true&count_private=true" alt="Ivan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjayyy&theme=purple&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
 <br />
 
