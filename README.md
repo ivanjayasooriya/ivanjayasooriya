@@ -47,8 +47,8 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanjayyy&theme=purple&show_icons=true&hide_border=true&count_private=true" alt="Ivan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjayyy&theme=purple&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanjayyy&theme=purple&show_icons=true&hide_border=true&cache_bypass=true" alt="Ivan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjayyy&theme=purple&layout=compact&hide_border=true&cache_bypass=true" alt="Top Languages" width="48%" />
 </div>
 
 <br />
