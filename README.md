@@ -39,7 +39,7 @@
 
 ### 📌 Featured Work
 
-* 🎵 **[HarmoniQ](https://github.com/ivanjayyy)** — Feature-rich music streaming application with backend REST API architecture, user authentication, and AI-driven song recommendations.
+* 🎵 **[HarmoniQ](https://github.com/ivanjayasooriya)** — Feature-rich music streaming application with backend REST API architecture, user authentication, and AI-driven song recommendations.
 * 💳 **Point of Sale (POS) System** — Management system handling inventory, user transactions, and dynamic reporting.
 
 ---
