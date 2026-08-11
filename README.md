@@ -93,8 +93,6 @@ Point-of-sale management system handling inventory, transactions, and dynamic re
 </tr>
 </table>
 
-> ⚠️ Double-check the two repo links above — swap in the exact repo names once you confirm them, since GitHub links are case- and name-sensitive.
-
 <br/>
 
 ## 📊 GitHub Stats
