@@ -77,7 +77,7 @@ Full-stack music streaming platform with a REST API backend, user authentication
 
 `Spring Boot` `React` `Spring Security` `MySQL` `Groq API`
 
-**[View Repo →](https://github.com/ivanjayasooriya/HarmoniQ)**
+**[View Repo →]([https://github.com/ivanjayasooriya/HarmoniQ](https://github.com/ivanjayasooriya/AAD_final))**
 
 </td>
 <td width="50%" valign="top">
@@ -87,7 +87,7 @@ Point-of-sale management system handling inventory, transactions, and dynamic re
 
 `Java` `Spring Boot` `MySQL` `REST APIs`
 
-**[View Repo →](https://github.com/ivanjayasooriya/pos-system)**
+**[View Repo →]([https://github.com/ivanjayasooriya/pos-system](https://github.com/ivanjayasooriya/rad-final-coursework-fe))**
 
 </td>
 </tr>
@@ -133,9 +133,9 @@ Point-of-sale management system handling inventory, transactions, and dynamic re
 <div align="center">
 
 <!-- Replace the # hrefs below with your real profile URLs -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ivan-jayasooriya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="dev.ivanjayasooriya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://ivanjayasooriya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
