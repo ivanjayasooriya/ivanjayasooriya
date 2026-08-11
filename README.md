@@ -122,8 +122,6 @@ Point-of-sale management system handling inventory, transactions, and dynamic re
 
 </div>
 
-> This animates your contribution graph as a snake eating its way through your commits. It needs a one-time setup — see the `.github/workflows/snake.yml` file included alongside this README, and the note at the end of this reply.
-
 <br/>
 
 ## 🤝 Let's Connect
