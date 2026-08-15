@@ -73,40 +73,25 @@
 <td width="50%" valign="top">
 
 ### 🎵 HarmoniQ
-Full-stack music streaming platform with a REST API backend, user authentication, and AI-driven song recommendations.
+A full-stack music streaming & management platform. Pairs a Spring Boot REST API with a vanilla HTML/CSS/JS frontend, featuring role-based access, real-time chat, an AI assistant, and a complete admin management suite.
 
-`Spring Boot` `React` `Spring Security` `MySQL` `Groq API`
+`Java 17` `Spring Boot` `Spring Security` `MySQL` `JWT`
 
-**[View Repo →]([https://github.com/ivanjayasooriya/HarmoniQ](https://github.com/ivanjayasooriya/AAD_final))**
+**[View Repo →](https://github.com/ivanjayasooriya/AAD_final)**
 
 </td>
 <td width="50%" valign="top">
 
-### 💳 POS System
-Point-of-sale management system handling inventory, transactions, and dynamic reporting for small businesses.
+### 🐾 PawLink
+A lost & found pet recovery platform that reunites lost pets with their owners through community-driven reporting, interactive location tracking, and recovery flyer generation.
 
-`Java` `Spring Boot` `MySQL` `REST APIs`
+`React` `TypeScript` `Vite` `Tailwind CSS` `Leaflet Maps`
 
-**[View Repo →]([https://github.com/ivanjayasooriya/pos-system](https://github.com/ivanjayasooriya/rad-final-coursework-fe))**
+**[View Repo →](https://github.com/ivanjayasooriya/rad-final-coursework-fe)**
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ivanjayasooriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ivan's GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjayasooriya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
-
-<img src="https://streak-stats.demolab.com/?user=ivanjayasooriya&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="65%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ivanjayasooriya&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="80%" />
-
-</div>
 
 <br/>
 
@@ -128,9 +113,8 @@ Point-of-sale management system handling inventory, transactions, and dynamic re
 
 <div align="center">
 
-<!-- Replace the # hrefs below with your real profile URLs -->
 <a href="https://www.linkedin.com/in/ivan-jayasooriya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="dev.ivanjayasooriya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:dev.ivanjayasooriya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://ivanjayasooriya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
